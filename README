@@ -1,0 +1,8 @@
+INTRODUCTION:
+
+ScatterBrain is an AppleScript Studio application which makes creating random or scatter proofs very easy. The user drags image files (TIFF, PSD, EPS) onto the ScatterBrain icon and they are placed into Adobe InDesign or QuarkXpress layouts. Images are intellegently laid out upon the page or pages and the name/path of each image is created below.
+
+REQUIREMENTS:
+
+OSX 10.2 +
+Adobe InDesign or QuarkXpress
